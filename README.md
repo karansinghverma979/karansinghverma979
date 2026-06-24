@@ -35,6 +35,8 @@ I am a developer who bridges the physical and digital worlds. With a background 
 </div>
 
 
+---
+
 
 **Development & Frameworks**
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -48,14 +50,17 @@ I am a developer who bridges the physical and digital worlds. With a background 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghverma979&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
+
 *"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."*
 
 <!--
