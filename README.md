@@ -11,6 +11,29 @@ I am a developer who bridges the physical and digital worlds. With a background 
 
 ### 🛠️ Tech Stack & Tools
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karansinghverma979&theme=radical&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghverma979&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansinghverma979&theme=radical&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,github,docker,vscode,raspberrypi&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
 **Development & Frameworks**
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
