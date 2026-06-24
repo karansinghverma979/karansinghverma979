@@ -34,6 +34,8 @@ I am a developer who bridges the physical and digital worlds. With a background 
   </a>
 </div>
 
+
+
 **Development & Frameworks**
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
