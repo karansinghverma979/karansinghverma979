@@ -2,25 +2,18 @@
 
 # <strong><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=900&size=80&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=KARAN+SINGH+VERMA;MASTER+OF+SYSTEMS;AI+INTEGRATOR;CNC+%26+VMC+TACTICIAN" alt="Karan Singh Verma" /></a></strong>
 
+<strong><img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=900&size=42&color=00FFFF&center=true&vCenter=true&width=750&height=60&lines=IRRATIONAL+FRENZY+CONTROLLED+BY&duration=1&repeat=false" alt="Irrational Frenzy" style="vertical-align: middle" />
+</strong>
 
-
-<br><br><br>
-
-
-
-# <strong><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&height=100&lines=🔥+IRRATIONAL+FRENZY+CONTROLLED+BY+REASON+🔥;🔥+AND+SELF+REFLECTION+🔥;🔥+UNSTOPPABLE+MOMENTUM+🔥" alt="Irrational Frenzy" /></a></strong>
-
-
-
-<br><br><br>
-
+# <strong><img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=900&size=42&color=00FFFF&center=true&vCenter=true&width=750&height=60&lines=REASON+AND+SELF+REFLECTION&duration=1&repeat=false" alt="Reason and Self Reflection" />
+</strong>
 
 
 # <strong><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=900&size=50&duration=2500&pause=500&color=FF4500&center=true&vCenter=true&width=800&height=80&lines=☠️+MEMENTO+MORI+☠️;⌚+REMEMBER+THAT+YOU+MUST+DIE+⌚;⌛+YOUR+DAYS+ARE+NUMBERED+⌛" alt="Memento Mori" /></a></strong>
 
+<br>
 
-
-<br><br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=800&color=00FF00&background=0D0D0D&center=false&vCenter=true&width=850&height=130&lines=[mitra@motobook+~]$+sudo+pacman+-Syu+--noconfirm;[mitra@motobook+~]$+./deploy_sarika_ai.sh+--override;[mitra@motobook+~]$+ssh+-i+key.pem+root@aws-production-cluster;[mitra@motobook+~]$+nmap+-sS+-O+-A+-p-+192.168.1.1/24;[mitra@motobook+~]$+msfconsole+-q+-x+%22use+exploit/multi/handler%22;[mitra@motobook+~]$+docker-compose+-f+infra.yml+up+-d;[mitra@motobook+~]$+git+push+origin+main+--force;[mitra@motobook+~]$+echo+%22Memento+Mori%22+%3E+/dev/null" alt="Terminal" style="border-radius: 10px; border: 2px solid #333;" />
 
 
 
@@ -148,9 +141,14 @@
 
 
 # 📊 <strong>GITHUB DOMINATION STATS</strong> 📊
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=karansinghverma979&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=karansinghverma979&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00FFFF&icon_color=FF4500&text_color=FFFFFF&bg_color=000000" height="190" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghverma979&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FFFF&currStreakNum=FFFFFF" height="190" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansinghverma979&theme=tokyonight&hide_border=true&area=true&color=00FFFF&line=FF4500&point=FFFFFF&bg_color=000000" width="100%" alt="GitHub Activity Graph" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghverma979&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D0D0D&layout=compact" height="195" alt="Top Languages" />
 
 
 
