@@ -145,15 +145,15 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=karansinghverma979&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=karansinghverma979&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00FFFF&icon_color=FF4500&text_color=FFFFFF&bg_color=000000" height="190" alt="GitHub Stats" />
+
+
+<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghverma979&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FFFF&currStreakNum=FFFFFF" height="190" alt="GitHub Streak" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghverma979&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D0D0D&layout=compact" height="195" alt="Top Languages" />
 
 
 
-<br><br><br>
-
+<br><br>
 
 
 # <strong><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=900&size=65&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=%22OSTINATO+RIGORE%22;RIGOROUS+PERSISTENCE" alt="Ostinato Rigore" /></a></strong>
