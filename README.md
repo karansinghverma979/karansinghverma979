@@ -147,12 +147,6 @@
 <br><br>
 
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansinghverma979&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FFFF&currStreakNum=FFFFFF" height="190" alt="GitHub Streak" />
-<br><br>
-
-
-
 <br><br>
 
 
