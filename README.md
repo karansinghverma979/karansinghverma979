@@ -15,7 +15,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=800&color=00FF00&background=0D0D0D&center=false&vCenter=true&width=850&height=130&lines=[mitra@motobook+~]$+sudo+pacman+-Syu+--noconfirm;[mitra@motobook+~]$+./deploy_sarika_ai.sh+--override;[mitra@motobook+~]$+ssh+-i+key.pem+root@aws-production-cluster;[mitra@motobook+~]$+nmap+-sS+-O+-A+-p-+192.168.1.1/24;[mitra@motobook+~]$+msfconsole+-q+-x+%22use+exploit/multi/handler%22;[mitra@motobook+~]$+docker-compose+-f+infra.yml+up+-d;[mitra@motobook+~]$+git+push+origin+main+--force;[mitra@motobook+~]$+echo+%22Memento+Mori%22+%3E+/dev/null" alt="Terminal" style="border-radius: 10px; border: 2px solid #333;" />
 
+<br><br>
 
+<p align="center">
+  <a href="https://g.dev/karansinghverma979" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Developer-g.dev%2Fkaransinghverma979-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
+  </a>
+  <a href="https://g.dev/karansinghverma979" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-Verified_Builder-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Verified Builder" />
+  </a>
+</p>
 
 ### <strong>🤖 ARCHITECT OF DESKTOP APPLICATIONS | ⚙️ SYSTEMS AUTOMATION COMMANDER | 🏭 CNC & VMC SPECIALIST</strong>
 
@@ -62,6 +71,7 @@
 
 
 # ☁️ <strong>CLOUD, VIRTUALIZATION & INFRASTRUCTURE</strong> ☁️
+<a href="https://g.dev/karansinghverma979" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud_Builder-g.dev%2Fkaransinghverma979-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Builder" /></a>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/MCP_Servers-FF4500?style=for-the-badge&logo=server&logoColor=white" />
