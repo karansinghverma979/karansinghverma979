@@ -30,6 +30,9 @@
   <a href="mailto:karansinghverma979@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Direct_Dispatch-karansinghverma979%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email" />
   </a>
+  <a href="https://t.me/agy_nexus_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_C2-%40agy__nexus__bot-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram C2 Bot" />
+  </a>
 </p>
 
 ### <strong>🤖 ARCHITECT OF DESKTOP APPLICATIONS | ⚙️ SYSTEMS AUTOMATION COMMANDER | 🏭 CNC & VMC SPECIALIST</strong>
@@ -51,6 +54,7 @@
 | **Apex Sovereign HUD** | Minimalist AMOLED desktop window manager, topmost pin synchronizer, and destructive process-tree governor. | **&lt;44ms Cold Boot**<br>**0 MB Idle RAM**<br>**DirectX Accelerated** | [`v2.0.0 Release`](https://github.com/karansinghverma979/Sakshi/releases)<br>[Apex Module Source](https://github.com/karansinghverma979/Sakshi/tree/main/Modules/Apex) |
 | **Sakshi Platform** | Autonomous hardware-accelerated cognitive supervisor & behavioral governance platform for Windows 11 with WASAPI audio synthesis. | **&lt;38ms Startup**<br>**&lt;5ms Audio Latency**<br>**Decoupled Host** | [`v1.0.0 Release`](https://github.com/karansinghverma979/Sakshi/releases)<br>[Sakshi Source](https://github.com/karansinghverma979/Sakshi) |
 | **Repo Architect Plugin** | Autonomous GitHub repository architect, OpenSSF supply chain hardener & dual-audience documentation engine. | **&lt;50ms Secret Scan**<br>**OpenSSF 10/10 Score**<br>**SHA Action Pinning** | [Plugin Source](https://github.com/karansinghverma979/antigravity-repo-architect-plugin) |
+| **Telegram Nexus Hub** | Sovereign Telegram automation nexus, mobile C2 gateway & dispatch firewall for Google Antigravity. | **0 MB Idle RAM**<br>**&lt;15ms Stdio JSON-RPC**<br>**Dual-Chamber Security** | [Plugin Source](https://github.com/karansinghverma979/antigravity-telegram-nexus-plugin) |
 | **Play Console MCP Hub** | Production-grade Model Context Protocol server for Google Play Console and Android Developer API v3 automation. | **Automated Staging**<br>**.AAB Fast Deployment**<br>**Track Management** | [MCP Source](https://github.com/karansinghverma979/antigravity-play-console-mcp) |
 | **Google Workspace MCP** | Unified Model Context Protocol server equipping autonomous agents with complete CRUD operations across 7 G-Suite services. | **Full CRUD Support**<br>**Calendar, Gmail, Drive**<br>**Docs, Sheets, Tasks** | [MCP Source](https://github.com/karansinghverma979/antigravity-google-workspace-mcp) |
 | **Campaigns Tactical OS** | Zero-latency desktop command center & authoritative SQLite state-machine with multi-minister governance. | **ACID SQLite3 Engine**<br>**Obsidian Live Sync**<br>**14 MCP Agent Tools** | [Campaigns Source](https://github.com/karansinghverma979/antigravity-campaigns-mcp) |
