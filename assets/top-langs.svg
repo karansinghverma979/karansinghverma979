@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <defs>
+    <linearGradient id="langGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E1017" />
+      <stop offset="100%" stop-color="#08090C" />
+    </linearGradient>
+    <linearGradient id="cyanGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="100%" stop-color="#7000FF" />
+    </linearGradient>
+    <filter id="glow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="495" height="195" rx="12" fill="url(#langGrad)" stroke="#1F2430" stroke-width="1.5"/>
+  <rect x="1" y="1" width="493" height="3" rx="1.5" fill="url(#cyanGrad2)"/>
+
+  <!-- Header Title -->
+  <text x="25" y="38" font-family="'JetBrains Mono', 'Segoe UI', monospace" font-size="16" font-weight="800" fill="#00F0FF" filter="url(#glow2)">
+    ⚡ TOP LANGUAGES
+  </text>
+  <text x="465" y="36" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#64748B">BY BYTE COUNT</text>
+
+  <!-- Visual Language Proportion Bar -->
+  <g transform="translate(25, 50)">
+    <rect x="0" y="0" width="445" height="8" rx="4" fill="#1E2330" />
+    <!-- Svelte: 64.1% -> 285px -->
+    <rect x="0" y="0" width="285" height="8" rx="4" fill="#FF3E00" />
+    <!-- Python: 13.0% -> 58px -->
+    <rect x="287" y="0" width="58" height="8" fill="#38BDF8" />
+    <!-- JavaScript: 8.3% -> 37px -->
+    <rect x="347" y="0" width="37" height="8" fill="#FACC15" />
+    <!-- PowerShell: 3.9% -> 17px -->
+    <rect x="386" y="0" width="17" height="8" fill="#818CF8" />
+    <!-- C#: 3.1% -> 14px -->
+    <rect x="405" y="0" width="14" height="8" fill="#10B981" />
+    <!-- Others: remainder -> 24px -->
+    <rect x="421" y="0" width="24" height="8" rx="4" fill="#A855F7" />
+  </g>
+
+  <!-- Language List Column 1 -->
+  <g transform="translate(25, 82)">
+    <!-- Svelte -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="8" r="5" fill="#FF3E00"/>
+      <text x="20" y="12" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F8FAFC">Svelte</text>
+      <text x="140" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#94A3B8">64.1%</text>
+    </g>
+
+    <!-- Python -->
+    <g transform="translate(0, 32)">
+      <circle cx="6" cy="8" r="5" fill="#38BDF8"/>
+      <text x="20" y="12" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F8FAFC">Python</text>
+      <text x="140" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#94A3B8">13.0%</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g transform="translate(0, 64)">
+      <circle cx="6" cy="8" r="5" fill="#FACC15"/>
+      <text x="20" y="12" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F8FAFC">JavaScript</text>
+      <text x="140" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#94A3B8">8.3%</text>
+    </g>
+  </g>
+
+  <!-- Language List Column 2 -->
+  <g transform="translate(250, 82)">
+    <!-- PowerShell -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="8" r="5" fill="#818CF8"/>
+      <text x="20" y="12" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F8FAFC">PowerShell</text>
+      <text x="140" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#94A3B8">3.9%</text>
+    </g>
+
+    <!-- C# -->
+    <g transform="translate(0, 32)">
+      <circle cx="6" cy="8" r="5" fill="#10B981"/>
+      <text x="20" y="12" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F8FAFC">C# / .NET</text>
+      <text x="140" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#94A3B8">3.1%</text>
+    </g>
+
+    <!-- TypeScript & Others -->
+    <g transform="translate(0, 64)">
+      <circle cx="6" cy="8" r="5" fill="#A855F7"/>
+      <text x="20" y="12" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F8FAFC">TS / Rust</text>
+      <text x="140" y="12" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#94A3B8">2.3%</text>
+    </g>
+  </g>
+</svg>

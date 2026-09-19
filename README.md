@@ -144,8 +144,12 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=karansinghverma979&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0E15&title_color=00F0FF&icon_color=00F0FF&text_color=94A3B8" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansinghverma979&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0E15&title_color=00F0FF&text_color=94A3B8" alt="Top Languages" />
+<img src="assets/github-stats.svg" alt="GitHub Telemetry" width="485" />
+<img src="assets/top-langs.svg" alt="Top Languages" width="485" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=karansinghverma979&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 <br><br><br>
 
